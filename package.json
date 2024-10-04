@@ -1,5 +1,5 @@
 {
-    "name": "@codecrafters/build-your-own-git",
+    "name": "build-your-own-git",
     "version": "1.0.0",
     "description": "Build your own Git challenge, from CodeCrafters",
     "main": "main.js",
